@@ -1,0 +1,180 @@
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 10:47:35
+    =           Date: [May 20 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_VoiceMgr_Fun_TestSuite
+TestSuite:CppTest_VoiceMgr_Fun_TestSuite::TestCase_IsVoiceMgrRepeat_GPS execute. waste time: 15.34ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_VoiceMgr_Fun_TestSuite, TotalCaseNum:0, run OK.
+
+
+TotalTestCaseNum: 0, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 28s 860ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 10:47:35
+    =           Date: [May 20 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_VoiceMgr_Fun_TestSuite
+TestSuite:CppTest_VoiceMgr_Fun_TestSuite::TestCase_IsVoiceMgrRepeat_GPS execute. waste time: 3.21ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_VoiceMgr_Fun_TestSuite, TotalCaseNum:0, run OK.
+
+
+TotalTestCaseNum: 0, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 9s 610ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 10:49:05
+    =           Date: [May 20 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_VoiceMgr_Fun_TestSuite
+TestSuite:CppTest_VoiceMgr_Fun_TestSuite::TestCase_IsVoiceMgrRepeat_GPS execute. waste time: 2.23ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_VoiceMgr_Fun_TestSuite, TotalCaseNum:1, run OK.
+
+
+TotalTestCaseNum: 1, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 4s 836ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 10:49:39
+    =           Date: [May 20 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_VoiceMgr_Fun_TestSuite
+TestSuite:CppTest_VoiceMgr_Fun_TestSuite::TestCase_IsVoiceMgrRepeat_GPS execute. waste time: 1.08ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_VoiceMgr_Fun_TestSuite, TotalCaseNum:0, run OK.
+
+
+TotalTestCaseNum: 0, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 4s 804ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 21:04:55
+    =           Date: [May 21 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_TEST_Fun_TestSuite
+TestSuite:CppTest_TEST_Fun_TestSuite::TestCase_First execute. waste time: 1.04ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_TEST_Fun_TestSuite, TotalCaseNum:1, run OK.
+
+
+TotalTestCaseNum: 1, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 4s 352ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 23:06:03
+    =           Date: [Sep  6 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_TEST_Fun_TestSuite
+TestSuite:CppTest_TEST_Fun_TestSuite::TestCase_First execute. waste time: 1.22ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_TEST_Fun_TestSuite, TotalCaseNum:1, run OK.
+
+
+TotalTestCaseNum: 1, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 5s 132ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 23:07:41
+    =           Date: [Sep  6 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_TEST_Fun_TestSuite
+TestSuite:CppTest_TEST_Fun_TestSuite::TestCase_First execute. waste time: 0.51ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_TEST_Fun_TestSuite, TotalCaseNum:1, run OK.
+
+
+TotalTestCaseNum: 1, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 3s 666ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 23:09:23
+    =           Date: [Sep  6 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_TEST_Fun_TestSuite
+TestSuite:CppTest_TEST_Fun_TestSuite::TestCase_First execute. waste time: 1.03ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_TEST_Fun_TestSuite, TotalCaseNum:1, run OK.
+
+
+TotalTestCaseNum: 1, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 5s 180ms
+======================================================
+    =           TestSuite: TestSuite-V 1.1.000001.0001
+    =           Build: 23:09:23
+    =           Date: [Sep  6 2015]
+======================================================
+DataPath    :F:\unit test\TestSuite\Bin\data\
+TestCasePath:F:\unit test\TestSuite\Bin\TestCase\
+TestDataPath:F:\unit test\TestSuite\Bin\TestData\
+ReportPath  :F:\unit test\TestSuite\Bin\Report\TestSuite\
+LogPath     :F:\unit test\TestSuite\Bin\Log\TestSuite\
+*****************Suite Test Begin***************
+Test Suite: CppTest_TEST_Fun_TestSuite
+TestSuite:CppTest_TEST_Fun_TestSuite::TestCase_First execute. waste time: 0.86ms
+AssertFailNum:0, OutOfTimeNum:0, ExceptNum:0
+*****************Suite Test End*****************
+TestSuite: CppTest_TEST_Fun_TestSuite, TotalCaseNum:1, run OK.
+
+
+TotalTestCaseNum: 1, TotalSuccessCaseNum:1, TotalAssertFailCaseNum:0, TotalOutOfTimeCaseNum:0, TotalExceptCaseNum:0.
+All test suites total waste time:0min 4s 181ms
